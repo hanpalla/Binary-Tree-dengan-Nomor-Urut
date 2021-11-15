@@ -33,6 +33,7 @@ int main(){
     tambah(8);
     tambah(22);
     tambah(30);
+    tambah(4);
     
     printf("\nInput Nomor Urut\t: ");
     scanf("%d", &urut);
